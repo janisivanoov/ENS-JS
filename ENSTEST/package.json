@@ -1,0 +1,12 @@
+{
+  "name": "enstest",
+  "version": "0.0.0",
+  "description": "ENSTEST",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "web3": "^1.7.1"
+  }
+}
